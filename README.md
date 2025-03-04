@@ -2,7 +2,7 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "SampleWebsite" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
 
 🚀 Features
 
@@ -14,11 +14,7 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML
-
-CSS
-
-Open index.html in your browser to view the component.
+HTML / CSS
 
 🎨 Preview
 
